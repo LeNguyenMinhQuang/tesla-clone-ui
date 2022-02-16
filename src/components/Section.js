@@ -72,7 +72,7 @@ function Section(props) {
               <RightButton>{props.rightBtnText}</RightButton>
             )}
           </ButtonGroup>
-          <DownArrow src="/images/down-arrow.svg" />
+          <DownArrow src="./images/down-arrow.svg" />
         </Buttons>
       </Fade>
     </Wrap>
